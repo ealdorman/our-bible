@@ -10,4 +10,4 @@ The Provable oracle service has a gas price of 20 GWei. By setting the provableG
 
 Similarly, the longest verse text in the KJV Bible is Esther 8:9. The text returned from the Provable query uses about 900,000 gas to store the text in the smart contract. Therefore, the longest Bible verse can be stored in the contract without breaking the 1,000,000 gas limit set in provableGasLimit.
 
-The smart contract is not open to DoS attacks by block gas limit because Bible verse text lengths are known and finite.
+The smart contract is not open to DoS attacks by block gas limit because Bible verse text lengths are known and finite. It would be a different story if users could provide their own verse text, but that's not the case.
