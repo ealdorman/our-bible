@@ -6,9 +6,9 @@
 
 Our Bible is split up into three separate repos:
 
-⋅⋅* Ethereum smart contracts: [our-bible-contracts](https://github.com/ealdorman/our-bible-contracts)
-⋅⋅* Node.js API: [our-bible-api](https://github.com/ealdorman/our-bible-api)
-⋅⋅* Front-end React.js app: [our-bible-react-app](https://github.com/ealdorman/our-bible-react-app)
+* Ethereum smart contracts: [our-bible-contracts](https://github.com/ealdorman/our-bible-contracts)
+* Node.js API: [our-bible-api](https://github.com/ealdorman/our-bible-api)
+* Front-end React.js app: [our-bible-react-app](https://github.com/ealdorman/our-bible-react-app)
 
 ## What Our Bible does
 
